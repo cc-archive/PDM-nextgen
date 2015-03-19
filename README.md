@@ -9,6 +9,6 @@ This project also involves ongoing work and consultation with DPLA and Europeana
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Diane Peters](https://github.com/peterspdx)  |
-| Accountable  | [Diane Peters](https://github.com/peterspdx), Matt Lee|
+| Accountable  | [Diane Peters](https://github.com/peterspdx), [Matt Lee](https://github.com/mattl)|
 | Consulted | [Sarah Pearson](https://github.com/sarahpearson)  |
 | Informed | [Ryan Merkley](https://github.com/ryanmerkley), [Matt Lee](https://github.com/mattl), CC affiliates   |
