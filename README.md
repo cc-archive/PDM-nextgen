@@ -6,7 +6,7 @@ This project also involves ongoing work and consultation with DPLA and Europeana
 
 ## Who's working on it at Creative Commons?
 
-| Role  | Person |
+| Role  | Human |
 | ------------- | ------------- |
 | Driver  | [Diane Peters](https://github.com/peterspdx)  |
 | Accountable  | [Diane Peters](https://github.com/peterspdx), [Matt Lee](https://github.com/mattl)|
