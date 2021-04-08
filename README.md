@@ -3,6 +3,7 @@ Creating a new public domain mark that can be used when worldwide public domain 
 
 This project also involves ongoing work and consultation with DPLA and Europeana on RightsStatements.org, the development of its governance structure, and the undelying technology infrastructure that powers the standard rights statements that will be published.
 
+Also see [closed Issues](https://github.com/cc-archive/PDM-nextgen/issues?q=is%3Aissue+is%3Aclosed).
 
 ## Who's working on it at Creative Commons?
 
